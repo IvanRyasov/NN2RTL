@@ -4,7 +4,7 @@
 > Цель — сделать создание энергоэффективных нейроускорителей для робототехники доступным без месяцев ручного RTL-проектирования.
 
 [![Status](https://img.shields.io/badge/status-WIP-orange)](https://github.com/IvanRyasov/nn2rtl)
-[![Python](https://img.shields.io/badge/python-3.10+-blue)](https://python.org)
+[![Python](https://img.shields.io/badge/python-3.12-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## Актуальность
