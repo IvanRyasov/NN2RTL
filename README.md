@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-## Проблема
+## Актуальность
 
 Современные роботы (дроны, мобильные платформы, манипуляторы) требуют real-time нейросетевого инференса (зрение, SLAM, управление) с:
 - детерминированной низкой задержкой;
